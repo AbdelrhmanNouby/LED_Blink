@@ -5,11 +5,13 @@
  *  Author: Abdelrhman Elsawy
  */ 
 
-#include "../../LIB/Typedef.h"
-#include "DIO_ERR_HANDLE.h"
+
 
 #ifndef DIO_H_
 #define DIO_H_
+
+#include "../../LIB/Typedef.h"
+#include "DIO_ERR_HANDLE.h"
 
 #define HIGH 1
 #define LOW  0
